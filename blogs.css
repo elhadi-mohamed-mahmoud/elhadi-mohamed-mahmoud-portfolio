@@ -11,13 +11,16 @@ html {
   font-family: "Raleway", sans-serif;
 }
 
-body {
-  color: #515151;
-  font-family: Lato, sans-serif;
-}
-
 html {
   line-height: 1.5;
+}
+
+.ta_c {
+  text-align: center;
+}
+
+.mtb-2rem {
+  margin: 2rem 0;
 }
 
 .post {
@@ -33,6 +36,7 @@ html {
   width: 100%;
   margin: 1rem;
   flex-basis: 50%;
+  cursor: pointer;
 }
 
 .post:hover {

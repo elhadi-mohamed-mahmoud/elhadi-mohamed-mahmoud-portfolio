@@ -72,6 +72,10 @@ html {
   margin-left: 5px;
 }
 
+.mtb-2rem {
+  margin: 2rem 0;
+}
+
 .mb__1rem {
   margin-bottom: 1rem;
 }
